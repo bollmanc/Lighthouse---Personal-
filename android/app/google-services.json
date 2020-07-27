@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190407369869",
+    "firebase_url": "https://sparrowlogin-4bb75.firebaseio.com",
+    "project_id": "sparrowlogin-4bb75",
+    "storage_bucket": "sparrowlogin-4bb75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190407369869:android:47331dbefeed5505d26ec4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_glogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190407369869-f2fakncpl7fqltot24i5po7cp10g7bu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_glogin",
+            "certificate_hash": "97a4fe4a8f67782fed4508140e506aa39fcc8f96"
+          }
+        },
+        {
+          "client_id": "190407369869-h1peav8bol36ft0pip69kib06fopnv4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVdwulvYVrYdcxL_DKXF-zAsV4vcFihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190407369869-h1peav8bol36ft0pip69kib06fopnv4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
